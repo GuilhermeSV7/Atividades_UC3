@@ -1,0 +1,32 @@
+Vocês deverão fazer uma atividade manuscrita pesquisando e explicando os conteúdos abaixo.
+
+📝 COMO FAZER
+
+Para cada conteúdo, você deve escrever:
+
+✔️ O que é
+✔️ Para que serve
+✔️ 1 exemplo simples (código)
+✔️ 1 exemplo prático (como seria usado)
+
+📚 CONTEÚDOS
+
+Algoritmo
+IF
+ELSE
+FOR
+WHILE
+DEF (funções em Python)
+Classe
+Construtor (_init_)
+Objeto
+Herenca
+
+POO (Programação Orientada a Objetos)
+
+⚠️ REGRAS
+
+Atividade feita à mão
+Pode ser resumida, não precisa texto grande
+Pode usar caderno
+Trabalho individual
